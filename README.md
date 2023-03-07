@@ -12,7 +12,7 @@ After cloning the repository, navigate to the root directory of the project and 
 The chat starts with default values for the host (127.0.0.1), the port (8000) and the app mode (server).
 To start the app with the default settigs, run the following command:
 
-'./_build/default/bin/chat_app.exe'
+`./_build/default/bin/chat_app.exe`
 
 To change app settings we provide the following flags:
 
