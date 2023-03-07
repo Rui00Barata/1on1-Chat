@@ -1,0 +1,4 @@
+(executable
+ (public_name Ahref_Chat_App)
+ (name chat_app)
+ (libraries lwt.unix Chat_lib))

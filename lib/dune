@@ -1,0 +1,8 @@
+(library
+ (name Chat_lib)
+ (wrapped false)
+ (modules Chat
+          Print)
+
+ (libraries lwt lwt.unix)
+)
